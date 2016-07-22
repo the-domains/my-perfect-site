@@ -1,0 +1,14 @@
+layout_spectrum: 0.5845940802246332
+typography_spectrum: 0.24112424766644835
+color:
+  brandStrength: 0.543340731645003
+  lightness: 0.3956825581844896
+  saturation: 0.1816120119765401
+  rhythmicContrast: 0.5391023380216211
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: My Perfect Site
